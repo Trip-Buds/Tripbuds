@@ -1,0 +1,12 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+# Tripbuds
+
+TripBuds is an social-first travel & lifestyle platform that connects like-minded individuals for shared travel experiences and in-city social plans.
+
+## Project Rules
+This project has a design system like shadcn for react native in Components folder please use them. 
